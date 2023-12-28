@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "senet_segmentation"
+  site-url: "https://HasanGoni.github.io/senet_segmentation"
+  description: "senet_segmentation processing will be done here"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/senet_segmentation"
